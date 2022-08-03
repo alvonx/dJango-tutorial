@@ -1,1 +1,2 @@
-# dJango Tutorial
+# Django REST Framework - Tutorial
+
